@@ -10,7 +10,7 @@
 ### 🔎 Présentation
 
 `multitool_musthave_osint` est un **outil OSINT polyvalent** en ligne de commande, développé en **Rust**. Il permet d'extraire des informations publiques depuis plusieurs plateformes majeures, via des appels API ou du scraping léger.  
-> ⚠️ L'outil est conçu **exclusivement pour les systèmes Linux** pour l'instant. Une version **Windows** est prévue très prochainement.
+> ⚠️ L'outil est conçu **exclusivement pour les systèmes Linux** pour l'instant. Une **nouvelle version pour les utilisateurs windows est achevée**.
 
 ---
 
@@ -70,7 +70,7 @@ TWITTER_BEARER_TOKEN=your_twitter_bearer_token
 
 - ✅ Linux (x86_64)
 - ⚠️ Android (via Termux) : possible, à compiler avec `cargo` sur Termux et git clone.
-- ❌ Windows : pas encore supporté, **mais une version identique est prévue**.
+- ✅ Windows : maintenant supporté, **une version de windows est faite**.
 
 ---
 
@@ -86,7 +86,7 @@ TWITTER_BEARER_TOKEN=your_twitter_bearer_token
 ### 🔎 Overview
 
 `multitool_musthave_osint` is a **versatile OSINT command-line tool**, written in **Rust**, designed to extract public metadata from major platforms using lightweight scraping and official APIs.  
-> ⚠️ Currently, it is designed **exclusively for Linux systems**. A **Windows version** is planned soon.
+> ⚠️ Currently, it is designed **exclusively for Linux systems**. A **Windows version** is available.
 
 ---
 
@@ -144,7 +144,7 @@ TWITTER_BEARER_TOKEN=your_twitter_bearer_token
 
 - ✅ Linux (x86_64)
 - ⚠️ Android (via Termux): works if compiled on-device.
-- ❌ Windows: currently unsupported, **but a version is coming soon.**
+- ✅ Windows: now supported, **a windows version is coming**.
 
 ---
 
